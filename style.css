@@ -9,10 +9,14 @@ header {
     font-weight: 600;
 }
 
-h2 {
+h2, h4 {
     color: #0d5067;
 }
 
-p {
+p, .topline {
     color: #8a999f;
+}
+
+footer {
+    height: 250px;
 }
