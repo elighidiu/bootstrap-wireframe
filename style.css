@@ -3,3 +3,16 @@ header {
     background-image: no-repeat fixed center;
     color: white;
 }
+
+.attention{
+    color:#dc3545;
+    font-weight: 600;
+}
+
+h2 {
+    color: #0d5067;
+}
+
+p {
+    color: #8a999f;
+}
